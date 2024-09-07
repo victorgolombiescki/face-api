@@ -1,2 +1,5 @@
-myenv/
-shape_predictor_68_face_landmarks.dat
+# Arquivos e pastas ocultas
+*.DS_Store
+.env
+.vscode/
+myenv/  # Caso ainda não esteja ignorado
