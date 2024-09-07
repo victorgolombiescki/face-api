@@ -3,3 +3,6 @@
 .env
 .vscode/
 myenv/  # Caso ainda não esteja ignorado
+myenv/
+*.dat
+*.so
